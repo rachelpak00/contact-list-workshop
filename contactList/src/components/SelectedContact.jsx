@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-import React from "react";
->>>>>>> origin/main
 import { useState, useEffect } from "react";
 
 const SelectedContact = ({selectedContactId, setSelectedContactId}) => {
